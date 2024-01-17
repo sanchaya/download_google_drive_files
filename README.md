@@ -5,7 +5,7 @@ Download each file from the source-url.
 Save the file with the identifier as its name, adding a .pdf prefix.
 First, ensure you have the necessary libraries, like pandas for handling the table and requests for downloading the files. If you don't have them installed, you can install them using pip:
 
-<code>pip install pandas requests</code)
+<code>pip install pandas requests</code>
 
 Replace path_to_your_table.csv with the path to your CSV file and path_to_save_pdf with the path where you want to save the PDFs.
 
